@@ -63,14 +63,14 @@ O problema central a ser enfrentado é a ausência de endereços formais para gr
 
 | Foto | Nome | Função | GitHub |
 |------|------|--------|--------|
-| ![Uploading Lucas.jpg…]()
- | **Lucas** | *Desenvolvedor / Frontend* | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasCassiano1) |
-| - | **Diego Castro** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Diegocastro5) |
-| - | **Henrique Bitencourt** | Product Owner | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/hriquen) |
-| - | **Joniel Oliveira** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonielOliveira) |
-| - | **Thiago Ribeiro** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/yrnThiago) |
-| - | **Ana Clara Becker** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ninabtolo) |
-| - | **André Augusto** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andreN4vs) |
+| <img src="https://github.com/user-attachments/assets/0c1c6586-c02d-44cc-9b16-9d0b4fddf90d" width="80" /> | **Lucas** | *Desenvolvedor / Frontend* | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasCassiano1) |
+| <img src="https://github.com/user-attachments/assets/76932cb1-a024-413e-b6c8-df1c124d6fbb" width="80" /> | **Diego Castro** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Diegocastro5) |
+| <img src="https://github.com/user-attachments/assets/39f54291-4c1c-42c6-bcd6-e63627e748e6" width="80" /> | **Henrique Bitencourt** | Product Owner | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/hriquen) |
+| <img src="https://github.com/user-attachments/assets/d792373f-3d37-4dd9-be8f-5ebe1413c646" width="80" /> | **Joniel Oliveira** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonielOliveira) |
+| <img src="https://github.com/user-attachments/assets/2bbe17aa-6241-4133-8c2b-79b22a12e0c7" width="80" /> | **Thiago Ribeiro** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/yrnThiago) |
+| <img src="https://github.com/user-attachments/assets/d4372590-8840-414c-b42c-3397b3a83dc2" width="80" /> | **Ana Clara Becker** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ninabtolo) |
+| <img src="https://github.com/user-attachments/assets/a2c59847-0d99-45e5-8b9f-c94406f4de59" width="80" /> | **André Augusto** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andreN4vs) |
+
 
 :link: [(Voltar ao topo)](#bookmark_tabs-índice)
 
